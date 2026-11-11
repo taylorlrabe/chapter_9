@@ -1,0 +1,16 @@
+---
+title: "New R Project"
+output: html_document
+date: "2026-11-11"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+
+
+
+```
